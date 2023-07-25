@@ -1,0 +1,10 @@
+* cl-rfc4251
+
+Common Lisp library for encoding and decoding RFC 4251 compliant data
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/dnaeon/cl-rfc4251.git   |
+| commit  | e3fc866  |
+| systems | cl-rfc4251 |
+|---------+-------------------------------------------|
+
